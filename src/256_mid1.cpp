@@ -4,7 +4,7 @@
 #include "utils.h"
 using namespace std;
 
-//TODO please submit files (util.h, util.cpp) to scholar with all content noted by TODO's below
+//TODO please generate and submit files util.h and util.cpp to scholar with all content noted by TODO's below
 
 //TODO 20 pts please move everything in the KP namespace into utils.h and utils.cpp
 //            be sure everything remains in namespace KP
